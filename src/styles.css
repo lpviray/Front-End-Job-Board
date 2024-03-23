@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+}
+
+body {
+  background: #f1f2f4;
+}
+
+button:hover {
+  color: white !important;
+  background-color: #2b5468 !important;
+  border: #2b5468 !important;
+}
+
+.App {
+  width: 100%;
+  height: 100vh;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.FrontEndDev:hover,
+.Design:hover,
+.E-Commerce:hover {
+  background-color: #dee2e3;
+}
